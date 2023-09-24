@@ -1,6 +1,6 @@
-psycopg2
-pandas
+pandas==2.1.1
+streamlit==1.27.0
 numpy
-sklearn
 xgboost
 matplotlib
+scikit-learn
