@@ -70,6 +70,8 @@ I started with a dataset combining loan outcomes and user attributes, dropping u
 
 XGBoost performed the best, so I trained it on the full dataset and saved it as 'xgb_model.pkl' for future use in a Streamlit application.
 
+**Note:** We need more features of the users and more date to improve the performance of the model.
 
+App link: https://loan-outcome.streamlit.app/
 
 
